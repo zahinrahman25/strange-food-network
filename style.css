@@ -1,0 +1,43 @@
+body{font-family: 'Righteous', cursive;
+    margin: 0%;}
+    p{font-size: 30px;}
+    h1{font-size: 45px;}
+    h2{font-size: 30px;}
+    .one{color: royalblue;}
+    .anchor-button{text-decoration: none;
+        background-color: royalblue;
+        padding: 10px 40px;
+    border-radius: 4px;
+    background-image: linear-gradient(cyan, royalblue);
+    color: white;
+    font-weight: 400;}
+    .inline{display: flex;}
+    .alpha
+    {width: 40%;
+        padding-left: 5%;}
+    .bravo{width: 60%;}
+    .charlie{width: 60%;
+            padding-left: 15%;}
+    .delta{width: 40%;}
+    .bgimg{background-image: url(photo/Frame\ 57.jpg);
+        background-repeat: no-repeat;}
+    .echo{box-shadow: 5px 5px 15px royalblue;
+            width: 100%;
+            margin-left: 5%;
+            margin-right: 5%;
+            padding-left: 5px;
+            padding-right: 5px;
+            padding-top: 5px;
+            border: 2px solid;
+            border-color: royalblue;
+            border-radius: 30px;}
+    .uniq{text-align: center;}
+    .zulu{border-radius: 30px;
+            width: 100%;}
+    footer{text-align: center;
+            color: red;
+            background-color: black;}
+    .xray{
+                background-color: black;
+                color: red;}
+    .victor{color: orange;}
